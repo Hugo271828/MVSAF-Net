@@ -16,7 +16,7 @@ This project proposes a novel **MVSAF-Net** architecture for **oral malignant ul
 - Mutual Information-based Hierarchical Semantic Feature Fusion
 
 ## 🧠 Network Architecture
-![Network Architecture](image/network.png)
+![Network Architecture](image/network.jpg)
 
 ▷ The architecture consists of three core modules:
 - **Module 1**: Multi-view Embedding
